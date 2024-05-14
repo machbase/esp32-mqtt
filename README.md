@@ -4,7 +4,7 @@
 # Requirements
 ESP-32 > Any ESP-32 board with Wifi
 
-PubSubClient from https://pubsubclient.knolleary.net/
+PubSubClient by Nick O’Leary from https://pubsubclient.knolleary.net/
 
 DGT sensor library by Adafruit from https://github.com/adafruit/DHT-sensor-library
 
